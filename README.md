@@ -1,12 +1,12 @@
 <div align="center">
   
-# 👋 Bonjour, je suis **[Prénom Nom]**
+# 👋 Bonjour, je suis Rochard Timothée
 
-### 🎓 Étudiant en BUT Réseaux & Télécommunications · Alternance SysAdmin / DevOps / Big Data
+### 🎓 Étudiant en BUT Réseaux & Télécommunications · Alternant Admin Sys orienté big-data devops
 
 📍 France
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/timothée-rochard-027667342)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Nosuf/portefolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.fr)
 
