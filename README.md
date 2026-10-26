@@ -1,117 +1,66 @@
-<div align="center">
-  
-# 👋 Bonjour, je suis Rochard Timothée
+<!-- README du dépôt de profil timothee-rochard/timothee-rochard (affiché sur github.com/timothee-rochard).
+     Ajouter les liens des projets quand leurs dépôts passent en public. -->
 
-### 🎓 Étudiant en BUT Réseaux & Télécommunications · Alternant Admin Sys orienté big-data devops
+# Timothée Rochard
 
-📍 France
+**Alternant administrateur systèmes DevOps** à l'Armée de l'Air et de l'Espace · **BUT Réseaux & Télécommunications, parcours Cybersécurité**
+J'automatise, je supervise et je sécurise des infrastructures Linux, et je reconstruis tout en lab pour comprendre comment ça marche.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/timothée-rochard-027667342)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Nosuf/portefolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.fr)
+🎯 Recherche une **alternance en master ou école d'ingénieurs (DevOps, réseaux, cloud)** à partir de **septembre 2027**, mobile en France et à l'international.
 
----
-
-</div>
-
-## 🧑‍💻 À propos de moi
-
-Étudiant en **BUT Réseaux & Télécommunications**, je suis passionné par l'infrastructure système, le réseau et l'automatisation. Mon homelab auto-hébergé est mon terrain de jeu pour expérimenter les technologies que j'étudie et préparer mon alternance.
-
-> 🔭 Je construis mon infrastructure de A à Z — virtualisation, conteneurisation, réseau, sécurité.
-> 🌱 J'approfondis le **DevOps** (Docker, CI/CD) et le **Big Data**.
-> 🎯 Objectif : une alternance en administration système & réseaux orientée DevOps / Big Data.
-> ⚡ En école d'ingénieur (2026+).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timothée_Rochard-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timoth%C3%A9e-rochard-027667342/)
+[![Email](https://img.shields.io/badge/Email-timothee.rochard%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:timothee.rochard@gmail.com)
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Ce que j'utilise
 
-### 🐧 Système & Réseau
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white)
-![Pi--hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+**Automatisation & DevOps**
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 
-### ☁️ DevOps & Conteneurisation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Conteneurs & orchestration**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?logo=proxmox&logoColor=white)
 
-### 🐍 Programmation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+**Observabilité**
+![Grafana](https://img.shields.io/badge/Grafana_%2B_Alloy-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?logo=fluentbit&logoColor=white)
 
-### 🤖 IA & Automatisation
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-25D366?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 📌 Projets phares
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Nosuf/MY-HOMELAB">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nosuf&repo=MY-HOMELAB&theme=tokyonight&hide_border=true&show_owner=false" />
-      </a>
-      <br/>
-      <b>🏠 Mon Infrastructure Homelab</b>
-      <p align="left">
-        Infrastructure complète de virtualisation sur Proxmox — réseau, conteneurisation, sécurité zero-trust, automatisation via IA. Stack : LXC, Docker, Nginx, Tailscale, Pi-hole.
-        <br/><br/>
-        <a href="https://github.com/Nosuf/MY-HOMELAB">📖 Voir la documentation →</a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Nosuf/portefolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nosuf&repo=portefolio&theme=tokyonight&hide_border=true&show_owner=false" />
-      </a>
-      <br/>
-      <b>🌐 Portfolio</b>
-      <p align="left">
-        Mon site portfolio présentant mon parcours, compétences et réalisations en BUT Réseaux & Télécommunications.
-        <br/><br/>
-        <a href="https://github.com/Nosuf/portefolio">🚧 Voir le projet →</a>
-      </p>
-    </td>
-  </tr>
-</table>
+**Systèmes, réseau & sécurité**
+![Linux](https://img.shields.io/badge/Linux_(RHEL,_Debian)-FCC624?logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP_%2F_StartTLS-555555)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projets
 
-<div align="center">
-  
-![Nosuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nosuf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nosuf&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Me contacter
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Nosuf/portefolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.fr)
-
-</div>
+| Projet | Ce que ça montre | Stack |
+|---|---|---|
+| **Homelab v1** | Infra auto-hébergée (2025-2026) sans aucun port exposé : LXC unprivileged, reverse proxy TLS, DNS filtrant, accès distant zero-trust, agent IA. Matériel hors service, v2 en préparation. | Proxmox · LXC · Docker · NPMplus · Pi-hole · Tailscale |
+| **proxmox-k3s** 🚧 | Cluster Kubernetes provisionné en code, de la VM au cluster | Terraform · Ansible · k3s · GitHub Actions |
+| **observability-stack** 🚧 | Stack de supervision reproductible : métriques, logs, dashboards et alertes en code | Grafana Alloy · Prometheus · Loki · Grafana · Helm |
 
 ---
 
-<div align="center">
-  
-*📌 Ce profil est en construction — nouveaux projets et expérimentations à venir !*
+## 💼 En alternance (sans détail interne)
+- Migration de la supervision des VM vers **Grafana Alloy** via **Ansible**, et monitoring d'un cluster **Kubernetes** avec **Helm**
+- Provisioning automatisé des utilisateurs **LDAP** vers Grafana (Ansible, API REST, SSO)
+- Chiffrement **StartTLS** d'un annuaire LDAP haute disponibilité et centralisation des logs avec **Rsyslog** en TLS
 
-</div>
+## 📜 Certifications
+- ✅ Cisco **CCNA: Introduction to Networks** (2025)
+- 🎯 En préparation : TOEIC · HashiCorp Terraform Associate
+
+---
+
+<sub>🇬🇧 Apprentice DevOps system administrator (French Air and Space Force) · BS in Networks & Telecom (Cybersecurity) · Looking for a work-study Master's / engineering degree from Sept 2027.</sub>
